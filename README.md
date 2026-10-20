@@ -4,7 +4,7 @@
 
 ## 这是什么
 
-这是一个供 Codex 等兼容 Agent Skills 的 AI 环境读取的工作流程 Skill。核心规则在 `SKILL.md`，界面名称与调用提示在 `agents/openai.yaml`。
+这是一个供 Codex 豆包  等兼容 Agent Skills 的 AI 环境读取的工作流程 Skill。核心规则在 `SKILL.md`，界面名称与调用提示在 `agents/openai.yaml`。
 
 当前版本不包含独立的出图程序、地图服务、自动安装依赖的脚本或预先打包的地图数据。需要由使用者的 AI 环境调用可用工具执行制作。其他客户端的安装方法和工具兼容性需要分别验证。
 
@@ -34,7 +34,7 @@
 
 ### 方法一：让安装器从仓库安装
 
-把下方整段发给 Codex：
+把下方整段发给 Codex或豆包：
 
 ```text
 $skill-installer
