@@ -2,8 +2,7 @@
 
 将旅行摄影地理视觉提示词封装成一个可重复调用的 Skill：保留原片，添加透明地图，呈现克制自然的独立杂志风格。
 
-#下载
-将https://github.com/candy359/travel-zine-map复制到豆包或者codex让他帮你安装即可
+将https://github.com/candy359/travel-zine-map 复制到豆包或者codex让他帮你安装即可
 
 ## 使用
 
