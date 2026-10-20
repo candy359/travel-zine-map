@@ -1,4 +1,4 @@
 interface:
   display_name: "旅行摄影地理视觉"
   short_description: "保留旅行原片，叠加真实透明地图，制作克制自然的独立杂志风格作品"
-  default_prompt: "请使用 $travel-zine-map，根据我提供的旅行原片和拍摄地点，保留原片，以真实地图独立图层制作 Travel Zine 风格的地理视觉作品。"
+  default_prompt: "请使用 $travel-zine-map，按其中的原始提示词和我提供的照片、地点制作旅行地理视觉作品，使用当前平台已有能力。"
