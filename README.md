@@ -37,10 +37,9 @@
 把下方整段发给 Codex或豆包：
 
 ```text
-$skill-installer
-请从以下 GitHub 仓库安装 travel-zine-map：
+
 https://github.com/candy359/travel-zine-map
-Skill 的 SKILL.md 位于仓库根目录，请将本地 Skill 文件夹命名为 travel-zine-map。
+
 ```
 
 安装器应先检查仓库布局。它可能需要网络访问与本地写入权限。安装完成后发送下一条消息；若仍未显示，可重启 Codex 再检查。
